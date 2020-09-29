@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03161532-9921-4e64-8825-e039942f1a14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iAA6IquZku1cjcNkfWoP6AC9jX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03161532-9921-4e64-8825-e039942f1a14" name="Default Changelist" comment="" />
+      <created>1601339845977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601339845977</updated>
+      <workItem from="1601339847000" duration="3330000" />
+      <workItem from="1601343312491" duration="130000" />
+      <workItem from="1601343452055" duration="231000" />
+      <workItem from="1601343692087" duration="187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="1970" width="493" height="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601340905665">
+      <screen x="0" y="1444" width="2560" height="1440" />
+    </state>
+    <state x="388" y="1970" width="493" height="422" key="#com.intellij.fileTypes.FileTypeChooser/0.1444.2560.1440/2560.1440.1920.1200/2560.0.2560.1440@0.1444.2560.1440" timestamp="1601340905665" />
+    <state x="83" y="1754" width="1272" height="829" key="SettingsEditor" timestamp="1601343878654">
+      <screen x="0" y="1444" width="2560" height="1440" />
+    </state>
+    <state x="83" y="1754" width="1272" height="829" key="SettingsEditor/0.1444.2560.1440/2560.1440.1920.1200/2560.0.2560.1440@0.1444.2560.1440" timestamp="1601343878654" />
+    <state x="303" y="1793" width="672" height="678" key="search.everywhere.popup" timestamp="1601342471900">
+      <screen x="0" y="1444" width="2560" height="1440" />
+    </state>
+    <state x="303" y="1793" width="672" height="678" key="search.everywhere.popup/0.1444.2560.1440/2560.1440.1920.1200/2560.0.2560.1440@0.1444.2560.1440" timestamp="1601342471900" />
+  </component>
+</project>
